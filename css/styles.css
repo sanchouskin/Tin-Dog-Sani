@@ -187,7 +187,7 @@ background-color: #ef7182;
     transform: rotate(0);
 
   }
-  #title{
+  #title .container-fluid{
     text-align: center;
 font-family: "Montserrat-Black" sans-serif;
   }
